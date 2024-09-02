@@ -4,6 +4,6 @@
 
 ## Welcome to My Github
 
-Hello! I'm [Enzo], a [a high school student]. I aspire to be a [computer scientist], and I'm passionate about [programming]. This github is where I share my work.
+Hello! I'm Enzo, a a high school student. I aspire to be a computer scientist, and I'm passionate about programming, anime and music. This github is where I share my work.
 
 ---
